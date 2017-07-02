@@ -9,14 +9,17 @@ We add to the staging area then from there we commit, which updates the reposito
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+By staging one logical change followed by a commit, at a time.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+It is like creating a new version of a program to see if a modification works before releasing to production. Or to demonstrate to a client to see if it is what they meant.
 
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+To incorporate any changes made
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
